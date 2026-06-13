@@ -72,4 +72,8 @@ The application will automatically launch in your default web browser at `http:/
 
 ---
 
-> **Disclaimer:** This tool is for educational and informational purposes only. It does not constitute formal legal advice. Always consult with a qualified attorney for binding legal decisions.
+> **Disclaimer:** This tool is for educational and informational purposes only. It does not constitute formal legal advice. Always consult with a qualified 
+
+
+attorney for binding legal decisions.
+******************************************************
